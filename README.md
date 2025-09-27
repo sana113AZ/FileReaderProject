@@ -23,7 +23,11 @@ It also asks the user to enter their name and prints it with the results.
 1. Compile the code:
    ```bash
    g++ Source.cpp -o filereader
-./filereader
+   ./filereader
+
+   ```
+
+```
 enter your name:
 sana
 My name : sana
@@ -31,3 +35,4 @@ number of digits = 15
 number of small letters = 10
 number of big letters = 6
 number of other characters = 19
+```
